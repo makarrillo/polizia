@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746777946
+coche guepeton español.PNG::CompressedTexture2D::6065765937943043764::1746777946::1746777947::1::::<><><>0<>0<>13f153a100ca915180d90cfca34eeb43<>res://.godot/imported/coche guepeton español.PNG-fc0563051633ad0239efadd8df8e83d5.ctex::
+icon.svg::CompressedTexture2D::3902922574261507329::1746775962::1746775967::1::::<><><>0<>0<>63c0e6c00fee808740238927f5e8db06<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+character_body_2d.gd::GDScript::7735217677276952812::1746777864::0::1::::<>CharacterBody2D<><>0<>0<><>::
+character_body_2d.tscn::PackedScene::7848515365922897625::1746777881::0::1::::<><><>0<>0<><>::uid://dig851gyseabk::::res://character_body_2d.gd<>uid://bvuutgwarmsf6::::res://icon.svg
+joc.tscn::PackedScene::3049859421292946835::1746777881::0::1::::<><><>0<>0<><>::uid://dj245wanwobg0::::res://character_body_2d.tscn
